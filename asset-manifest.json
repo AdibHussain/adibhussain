@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/adibhussain/static/css/main.6019fd0d.chunk.css",
-    "main.js": "/adibhussain/static/js/main.0a28c3f5.chunk.js",
-    "main.js.map": "/adibhussain/static/js/main.0a28c3f5.chunk.js.map",
-    "runtime-main.js": "/adibhussain/static/js/runtime-main.a87ebf9d.js",
-    "runtime-main.js.map": "/adibhussain/static/js/runtime-main.a87ebf9d.js.map",
-    "static/js/2.afe78ded.chunk.js": "/adibhussain/static/js/2.afe78ded.chunk.js",
-    "static/js/2.afe78ded.chunk.js.map": "/adibhussain/static/js/2.afe78ded.chunk.js.map",
+    "main.js": "/adibhussain/static/js/main.241f6dde.chunk.js",
+    "main.js.map": "/adibhussain/static/js/main.241f6dde.chunk.js.map",
+    "runtime-main.js": "/adibhussain/static/js/runtime-main.a9f5ea0c.js",
+    "runtime-main.js.map": "/adibhussain/static/js/runtime-main.a9f5ea0c.js.map",
+    "static/js/2.58234c06.chunk.js": "/adibhussain/static/js/2.58234c06.chunk.js",
+    "static/js/2.58234c06.chunk.js.map": "/adibhussain/static/js/2.58234c06.chunk.js.map",
     "index.html": "/adibhussain/index.html",
     "static/css/main.6019fd0d.chunk.css.map": "/adibhussain/static/css/main.6019fd0d.chunk.css.map",
-    "static/js/2.afe78ded.chunk.js.LICENSE.txt": "/adibhussain/static/js/2.afe78ded.chunk.js.LICENSE.txt",
+    "static/js/2.58234c06.chunk.js.LICENSE.txt": "/adibhussain/static/js/2.58234c06.chunk.js.LICENSE.txt",
     "static/media/instagramLogo.ea507010.png": "/adibhussain/static/media/instagramLogo.ea507010.png",
     "static/media/netflixlogo.8b902666.jpg": "/adibhussain/static/media/netflixlogo.8b902666.jpg",
     "static/media/profile pic.8a26e233.jpeg": "/adibhussain/static/media/profile pic.8a26e233.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a87ebf9d.js",
-    "static/js/2.afe78ded.chunk.js",
+    "static/js/runtime-main.a9f5ea0c.js",
+    "static/js/2.58234c06.chunk.js",
     "static/css/main.6019fd0d.chunk.css",
-    "static/js/main.0a28c3f5.chunk.js"
+    "static/js/main.241f6dde.chunk.js"
   ]
 }
